@@ -3,8 +3,11 @@ S211: Database System Assignment
 
 **In repository Assigment 1:**
 
-report.pdf:
+  1. report.pdf:
 This is the .pdf file recording our group work.
+
+  2. Requirements.pdf: 
+It is the requirement of the assigment.
 
 **In repository Assigment 2:**
 
@@ -17,3 +20,6 @@ It also have one file named: procedure.txt, this is the procedures that we used 
 
   3. report.pdf:
 This is the .pdf file recording our group work.
+
+  4. Requirements.pdf: 
+It is the requirement of the assigment.
